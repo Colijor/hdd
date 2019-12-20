@@ -72,3 +72,12 @@
     background-color: rgba(0,0,0,.7);
     border: 0;
 }
+
+.padding-lr{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.no-listStyle li{
+    list-style: none !important;
+}

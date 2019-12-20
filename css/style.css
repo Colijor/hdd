@@ -7710,7 +7710,18 @@ ul.tags li {
 	border-left: 6px solid #e83a21;
 	text-indent: 10px;
 }
-
+.tab-pane2 h3 {
+	border-left: 6px solid #e83a21;
+	text-indent: 10px;
+	font-weight: 600;
+	color: #e83a21;
+}
+.tab-pane2 h4{
+	font-weight: 500;
+}
+.tab-pane2 ul>li{
+	list-style: disc;
+}
 .ab-0{
     position: absolute;
     bottom: 0;
