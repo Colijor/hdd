@@ -445,7 +445,7 @@ a {
 /*  General Style   ||-----------*/
 .b-line {
 	position: relative;
-	width: 60px;
+	width: 100px;
 	height: 3px;
 	background: #19b5fe;
 	display: block;
